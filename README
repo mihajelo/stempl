@@ -1,0 +1,14 @@
+# Štempl
+Aplikacija za evidentiranje delovnega časa v manjših podjetjih.
+
+## Tehnologije
+- Flutter (Dart)
+- Firebase (Realtime Database, Authentication)
+- Visual Studio Code
+
+## Opis
+Aplikacija omogoča prijavo uporabnikov, beleženje delovnih sej, pregled zgodovine in izvoz v Excel.  
+Administratorji lahko upravljajo uporabnike in spremljajo evidence.
+
+## Avtor
+Miha Jelovčan, 2025
