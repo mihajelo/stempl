@@ -17,7 +17,7 @@ void main() async {
     options: const FirebaseOptions(
       appId: "1:252279026147:android:23c26baf654d36368e70d6",
       messagingSenderId: '252279026147',
-      apiKey: "AIzaSyBF4xvBRRIT--UDOLyH81lRg2JdJvWpJVo",
+      apiKey: "*********************************",
       authDomain: 'stempl-a0d50.firebaseapp.com',
       projectId: 'stempl-a0d50',
       databaseURL:
@@ -753,3 +753,4 @@ Future<void> _logAuthSuccess({
     );
   }
 }
+
